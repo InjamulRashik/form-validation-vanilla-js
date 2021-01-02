@@ -1,0 +1,12 @@
+.main {
+  padding-top: 200px;
+  text-align: center;
+  border: 1px solid black;
+  padding-bottom: 200px;
+}
+#inputBox {
+  margin-bottom: 20px;
+}
+#radioEmail {
+  margin-bottom: 20px;
+}
